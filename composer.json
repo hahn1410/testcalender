@@ -1,0 +1,21 @@
+{
+    "name": "hahnzulkifli/vlog",
+    "description": "Video blog entries from YouTube",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hahn Zulkifli",
+            "email": "m.hahnzulkifli@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {
+        "gabordemooij/redbean": "^4.3"
+    },
+    "autoload": {
+        "classmap": [
+            "app/lib"
+        ]
+    }
+}
